@@ -2,7 +2,7 @@
 
 Notebook-based analysis of the residual orbit drift (ROD) during Pbâ€“Pb van der Meer scans, using CMS DOROS and arc BPM measurements. The current configuration and example inputs are for LHC fill **9212** (2023, PbPb at 5.36 TeV per nucleon pair).
 
-The workflow reads nominal scan positions and BPM time series, estimates and subtracts a linear drift from the head-on intervals surrounding each scan, constructs an ion beamâ€“beam deflection template, fits the remaining BPM motion, and exports per-step ROD corrections and diagnostic plots.
+The workflow reads nominal scan positions and BPM time series, estimates and subtracts a linear drift from the head-on intervals surrounding each scan, constructs an ion beam-beam deflection template, fits the remaining BPM motion, and exports per-step ROD corrections and diagnostic plots.
 
 ## Repository contents
 
